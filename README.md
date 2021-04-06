@@ -1,5 +1,6 @@
 # Space_invaders
 Space_invaders en C
+```
 *-------------------------*
 |                        |
 |       ++      ++       |
@@ -20,3 +21,4 @@ Space_invaders en C
 |                        |
 |            J           |
 *------------------------*
+```
