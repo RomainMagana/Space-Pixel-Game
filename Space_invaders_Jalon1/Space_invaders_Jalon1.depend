@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615904059 source:c:\users\romai\desktop\space_invaders\space_invaders_jalon1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1615737802 
+
+1615738081 source:/media/sf_C_DRIVE/Users/romai/Desktop/SPACE_INVADERS/Space_invaders_Jalon1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
