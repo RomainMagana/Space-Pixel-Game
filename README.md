@@ -27,3 +27,4 @@ Ce jeu à été réalisé en C sous la bibliothèque SDL
 ```
 ## Jalon 5
 
+![alt text](http://url/to/img.png)
