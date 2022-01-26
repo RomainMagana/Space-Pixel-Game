@@ -6,7 +6,7 @@ Une version Webassembly est en cours de préparation !
 ## VERSION GRAPHIQUE 
 
 <img align="left" height="400px" src="https://github.com/RomainMagana/Space_invaders/blob/main/Space_invaders_Jalon5/BMP/Debut.bmp?raw=true">
-<img height="400px" src="https://github.com/RomainMagana/Space_invaders/blob/main/Space_invaders_Jalon5/BMP/Debut.bmp?raw=true">
+<img height="400px" src="https://raw.githubusercontent.com/RomainMagana/Space-Pixel-Game/main/Space_invaders_Jalon5/BMP/Fin.bmp">
 ## VERSION TEXTE
 
 ```
