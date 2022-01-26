@@ -34,3 +34,6 @@ Une version Webassembly est en cours de préparation !
 |            J           |
 *------------------------*
 ```
+
+## VERSION WEBASSEMBLY
+Bientot...
