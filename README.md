@@ -15,4 +15,5 @@ Une version Webassembly est en cours de préparation !
 <img height="390px" src="https://user-images.githubusercontent.com/54882222/152376132-66b87ebb-1e15-4a80-ab5d-1994aaa36382.png">
 
 ## VERSION WEBASSEMBLY
-Bientot...
+
+Disponible sur https://magana-romain.fr/Space_Pixel_Game.html#webassembly
