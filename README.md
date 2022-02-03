@@ -16,4 +16,4 @@ Une version Webassembly est en cours de préparation !
 
 ## VERSION WEBASSEMBLY
 
-Disponible sur https://magana-romain.fr/Space_Pixel_Game.html#webassembly
+Disponible sur https://romainmagana.github.io/Space-Pixel-Game/Space_invaders_Webassembly/
